@@ -6,3 +6,6 @@
 planet = "Earth"
 print(f"Hello, {planet}!")
 ```
+#### This represents a list
+- [x] Completed Item
+- [ ] Incomplete Item 
